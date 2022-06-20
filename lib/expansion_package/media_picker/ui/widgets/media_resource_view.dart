@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:lhbase_v1/expansion_package/expansion_package.dart';
 import 'package:lhbase_v1/lhbase.dart';
 import 'package:photo_manager/photo_manager.dart';
 

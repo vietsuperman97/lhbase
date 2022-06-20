@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lhbase_v1/lhbase.dart';
+import 'package:lhbase_v1/global/utils/data_utils.dart';
 
 import 'res.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lhbase_v1/res/res.dart';
+import 'package:lhbase_v1/lhbase.dart';
 
 class LhRadioShape extends StatelessWidget {
   final bool isSelected;

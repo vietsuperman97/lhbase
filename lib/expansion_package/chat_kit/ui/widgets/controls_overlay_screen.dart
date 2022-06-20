@@ -4,8 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:lhbase_v1/lhbase.dart';
-import 'package:lhbase_v1/res/lh_styles.dart';
-import 'package:lhbase_v1/ui/widgets/lh_text.dart';
 import 'package:video_player/video_player.dart';
 
 import 'widget_play_video_back.dart';

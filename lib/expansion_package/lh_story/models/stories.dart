@@ -1,4 +1,4 @@
-import 'package:lhbase_v1/expansion_package/expansion_package.dart';
+import 'package:lhbase_v1/expansion_package/lh_story/models/story_data.dart';
 
 class Stories {
   final List<StoryData> stories;

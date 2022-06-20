@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:lhbase_v1/global/controllers/controllers.dart';
 import 'package:lhbase_v1/lhbase.dart';
 
 class LhText extends StatelessWidget {

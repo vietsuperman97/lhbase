@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:lhbase_v1/lhbase.dart';
-import 'package:lhbase_v1/res/lh_styles.dart';
 import 'package:lottie/lottie.dart';
 import 'package:get/get.dart';
 

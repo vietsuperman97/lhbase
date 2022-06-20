@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:lhbase_v1/expansion_package/chat_toolbar/ui/controllers/controllers.dart';
 import 'package:lhbase_v1/lhbase.dart';
 
 typedef List<ChatKitAction> ActionsBuilder(

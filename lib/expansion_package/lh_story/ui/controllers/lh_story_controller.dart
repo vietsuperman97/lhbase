@@ -3,7 +3,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:get/state_manager.dart';
-import 'package:lhbase_v1/expansion_package/lh_story/models/stories.dart';
 import 'package:lhbase_v1/lhbase.dart';
 
 enum StoryPlayBack { play, pause, next, previous, returned, completed }

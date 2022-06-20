@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:just_audio/just_audio.dart';
-import 'package:lhbase_v1/expansion_package/chat_kit/chat_kit.dart';
 import 'package:lhbase_v1/lhbase.dart';
-import 'package:lhbase_v1/ui/ui.dart';
 
 class ChatRecoder extends StatefulWidget {
   final ChatMessage message;

@@ -4,8 +4,6 @@ import 'package:connectivity/connectivity.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:lhbase_v1/global/global.dart';
-import 'package:lhbase_v1/global/routes/lh_pages.dart';
 import 'package:lhbase_v1/lhbase.dart';
 
 class ConnectivityController extends GetxController {
