@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:lhbase_v1/lhbase.dart';
+import 'package:lhbase_v1/ui/widgets/lh_text.dart';
 import 'package:lottie/lottie.dart';
 
 class WebServiceStateController extends GetxController {
@@ -41,7 +43,14 @@ class WebServiceStateController extends GetxController {
                         onTap: () {
                           Get.back();
                         },
-                        child: Text('Thử lại'),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Icon(Icons.refresh, size: 30,),
+                            LhValue.vSpaceSmall,
+                            LhText('Thử lại', style: LhStyle.DEFAULT_16,),
+                          ],
+                        ),
                       ),
                   ),
                 ),
